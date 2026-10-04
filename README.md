@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Network+Engineer+%7C+Infrastructure;Building+SINTAS+%E2%80%94+Network+Monitoring;MikroTik+%C2%B7+UniFi+%C2%B7+Linux+%C2%B7+Docker;Informatics+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Network+Engineer+%7C+Infrastructure;Building+SINTAS+%E2%80%94+Network+Monitoring;MikroTik+%C2%B7+UniFi+%C2%B7+Linux+%C2%B7+Docker;Informatics+Graduate" alt="Typing SVG" />
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-I'm an Informatics student working as a **network engineer**, mostly living in the gap between networking and software — MikroTik, VLANs, VPNs and monitoring on one side, Linux, Docker and web apps on the other.
+I'm an Informatics graduate working as a **network engineer**, mostly living in the gap between networking and software — MikroTik, VLANs, VPNs and monitoring on one side, Linux, Docker and web apps on the other.
 
 Day to day I administer a dual-ISP office network (MikroTik RB3011, ~200 users) and I'm building the tooling to make that kind of infrastructure easier to see and reason about — which is where most of the projects below come from. They're built to solve problems I actually run into, not portfolio filler.
 
@@ -53,6 +53,7 @@ Manual + API QA on a Node.js/Express staff-management app (Kebersihan & Keamanan
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/MikroTik-00897B?style=for-the-badge&logo=mikrotik&logoColor=white" />
 <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
 <img src="https://img.shields.io/badge/TCP%2FIP-4A5568?style=for-the-badge" />
