@@ -139,7 +139,7 @@ Manual + API QA on a Node.js/Express staff-management app (Kebersihan & Keamanan
 <a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-classification-and-summarization-using-ibm-gra">
   <img
     src="https://wsrv.nl/?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F40a652a3-d423-4874-a16d-31a5695c9dc1%2FBadgeEmblem_DataClassificationAndSummarizationUsingIBMGranite.png"
-    width="130"
+    width="100"
     alt="Data Classification and Summarization Using IBM Granite"
   />
 </a>
