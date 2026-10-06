@@ -104,6 +104,57 @@ Manual + API QA on a Node.js/Express staff-management app (Kebersihan & Keamanan
 
 <br>
 
+<br>
+
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/1bae67c7-02ed-42e6-adb3-6d0d1e2e6da4/public_url">
+  <img
+    src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
+    width="150"
+    alt="CCNA: Introduction to Networks"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/5b47b35d-0827-4eb5-b326-97326969e2ed">
+  <img
+    src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"
+    width="150"
+    alt="CCNA: Switching, Routing, and Wireless Essentials"
+  />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/bdddf845-68a1-4ff6-b9f6-96fa66d767fd">
+  <img
+    src="https://images.credly.com/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png"
+    width="150"
+    alt="Network Security"
+  />
+</a>
+
+<br><br>
+
+<a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-classification-and-summarization-using-ibm-gra">
+  <img
+    src="https://images.credly.com/images/40a652a3-d423-4874-a16d-31a5695c9dc1/BadgeEmblem_DataClassificationAndSummarizationUsingIBMGranite.png"
+    width="120"
+    alt="Data Classification and Summarization Using IBM Granite"
+  />
+</a>
+
+<br><br>
+
+<a href="https://www.credly.com/users/zefan-tio">
+  <img
+    src="https://img.shields.io/badge/View%20all%20credentials-Credly-0A7B83?style=for-the-badge&logo=credly&logoColor=white"
+    alt="View all credentials on Credly"
+  />
+</a>
+
+</div>
+
 ## 🛰️ SINTAS — Infrastructure & Network Monitoring Platform
 
 A centralized panel for watching and managing network infrastructure — MikroTik and UniFi devices, servers, and the links between them — instead of SSH-ing into five different boxes to figure out why something's slow.
