@@ -134,7 +134,7 @@ Manual + API QA on a Node.js/Express staff-management app (Kebersihan & Keamanan
   />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-classification-and-summarization-using-ibm-gra">
   <img
