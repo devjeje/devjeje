@@ -137,9 +137,12 @@ Manual + API QA on a Node.js/Express staff-management app (Kebersihan & Keamanan
 <br><br>
 
 <a href="https://www.credly.com/org/ibm-skillsbuild/badge/data-classification-and-summarization-using-ibm-gra">
-  <img src="https://images.credly.com/size/340x340/images/40a652a3-d423-4874-a16d-31a5695c9dc1/BadgeEmblem_DataClassificationAndSummarizationUsingIBMGranite.png">
+  <img
+    src="https://wsrv.nl/?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F40a652a3-d423-4874-a16d-31a5695c9dc1%2FBadgeEmblem_DataClassificationAndSummarizationUsingIBMGranite.png"
+    width="130"
+    alt="Data Classification and Summarization Using IBM Granite"
+  />
 </a>
-
 <br><br>
 
 <a href="https://www.credly.com/users/zefan-tio">
