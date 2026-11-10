@@ -678,30 +678,29 @@
     <rect class="win" x="872.4" y="167.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:4.8s"/></g>
-  <g class="col" data-week="51"><rect x="882.7" y="147" width="16.3" height="48"
-    fill="#3776ab" rx="1"/><polygon points="882.7,147 890.8,139.0 899.0,147"
-      fill="#ffd43b"/><rect class="win" x="889.7" y="151.0"
+  <g class="col" data-week="51"><rect x="882.7" y="137" width="16.3" height="58"
+    fill="#3776ab" rx="1"/><rect class="win" x="889.7" y="141.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="894.7" y="151.0"
+    <rect class="win" x="894.7" y="141.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="884.7" y="161.0"
+    <rect class="win" x="884.7" y="151.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="889.7" y="161.0"
+    <rect class="win" x="889.7" y="151.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="884.7" y="171.0"
+    <rect class="win" x="884.7" y="161.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="894.7" y="171.0"
+    <rect class="win" x="894.7" y="161.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="889.7" y="181.0"
+    <rect class="win" x="889.7" y="171.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="894.7" y="181.0"
+    <rect class="win" x="894.7" y="171.0"
           width="2.5" height="2.5" fill="#fff9e0" rx="0.5"
           style="animation-delay:3.3s"/></g>
 
@@ -771,13 +770,13 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#7ee787">
-      🌍 devjeje's GitWorld · 269 commits
+      🌍 devjeje's GitWorld · 274 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#7ee787">
-      🔥 7d streak
+      🔥 9d streak
     </text>
   </g>
 
